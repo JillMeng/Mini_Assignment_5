@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './component/App';
+import CounterRedux from './redux-state/CounterRedux';
 // import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
