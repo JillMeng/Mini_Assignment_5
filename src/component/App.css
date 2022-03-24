@@ -1,0 +1,10 @@
+.App {
+    text-align: center;
+}
+
+.Card {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 100px 100px;
+    justify-content: center;
+  }
